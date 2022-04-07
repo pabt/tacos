@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+		<html>
+		  <head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width">
+			<title>My First Web Page</title>
+		  </head>
+		  <body>
+			<div align="center">
+				<h1>Pablo Torres</h1>
+				<h2>Software Developer</h2>
+				<hr>
+				<h3> Im a 26 year old born in NY but raised in Mexico, at age 18 I came back to the US barely knowing English. At age 19 (2016) I decided to start learning English so I started teaching myself using books, playing with subtitles and languages in movies and series from Netflix, I used my phone to translate. I also used musics lyrics and tried imitating the artist singing. At age 20 I moved to Pennsylvania where I met a lot of good people and they helped me better my pronunciation and vocabulary. In 2019 I moved back to NY where I performed different jobs but most important I got a job at Victoria’s Secret and 5 months later I became a Brand Operations supervisor.
+Later on because of covid I was forced to quit because I needed to work and because of covid happening my store wouldn’t open back for a while, it was then when in 2020 I moved to Indiana where I became a Welder at a company that makes exhaust system (mufflers) for FORD AND GENERAL MOTORS but I was forced to quit due to health issues, then I went back to Mexico to recover and came back 3 months later and moved back to NY where I got a job at a warehouse and started taking care of my health, now im trying to become a software developer and starting this new journey, it hasn’t been easy but it surely it has all been worth it. Thank you for reading a bit about my story :</h3>
+					<h4>My hometown’s name is Coronango located in the beautiful city of Puebla in Mexico.</h4>
+					<h4>My favorite color is Black.</h4>
+					<h4>My favorite food is Mexican Food.</h4>
+					<h4>If I could be any animal, I would be a dog.</h4>
+			</div>
+		  </body>
+		</html>
